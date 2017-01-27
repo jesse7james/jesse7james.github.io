@@ -35,8 +35,6 @@ header { padding: 0 0.5em; color: #C90B0B; }
     float: left;
 }
 
-
-
 .header2 {
     max-width: 20em;
     height: 90px;
@@ -46,7 +44,6 @@ header { padding: 0 0.5em; color: #C90B0B; }
 .clear {
     clear: both;
 }
-
 
 .hero1 { padding: 2em; background-color: #f8f8f8; font-size:1.2em;
   border-bottom: 1px solid #ccc;
@@ -62,8 +59,6 @@ header { padding: 0 0.5em; color: #C90B0B; }
     max-width: 13em;
      margin-left: 20em;
 }
-
-
 
 .content { padding: 1em 1em; }
 .content li { list-style-type: none; font-size: 1.1em;}
