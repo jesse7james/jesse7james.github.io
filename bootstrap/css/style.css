@@ -1,0 +1,110 @@
+.lg6 {
+    padding-right: 0;
+    padding-left: 0px;
+}
+
+body {
+    background: #ded0e8;
+}
+
+.headerimg {
+    background: url(/img/header1.jpg);
+    color: red;
+    padding-bottom: 20px;
+    padding-top: 142px;
+    margin-top: inherit;
+    margin-bottom: inherit;
+}
+
+
+/* photo gallery*/
+
+
+/*resume  body*/
+
+.tab_con {
+    width: 5px;
+    height: auto;
+}
+
+#about {
+    width: 5px;
+    height: auto;
+}
+/*footer*/
+
+footer {
+    width: auto;
+    height: 150px;
+    border: 1px solid black;
+    margin-top: 500px;
+}
+
+.social {
+    margin-top: 50px;
+}
+
+.socialicons {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 50px;
+}
+
+.socialicons>li {
+    padding: 0 10px;
+    display: inline-block;
+}
+
+.socialicons>li>a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.rightmenu_footer {
+    display: inline-block;
+    float: right !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    position: relative;
+    margin-top: 25px;
+}
+
+.nav_footer {
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+.rightmenu_footer>ul>li a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.rightmenu_footer>ul>li a {
+    padding-left: 10px;
+    text-align: center;
+}
+
+
+/*html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+
+margin-bottom: 60px;
+
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    
+    height: 60px;
+    background-color: #f5f5f5;
+}
+*/
+
