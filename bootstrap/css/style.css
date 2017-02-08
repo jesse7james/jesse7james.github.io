@@ -8,7 +8,7 @@ body {
 }
 
 .headerimg {
-    background: url(/img/header1.jpg);
+    background: url(../../img/header1.jpg);
     color: red;
     padding-bottom: 20px;
     padding-top: 142px;
@@ -107,4 +107,3 @@ margin-bottom: 60px;
     background-color: #f5f5f5;
 }
 */
-
